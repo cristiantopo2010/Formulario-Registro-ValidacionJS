@@ -1,1 +1,1 @@
-// Sitio web de este proyecto: https://formulariovalidacion-js.netlify.app/
+// Website: https://formulariovalidacion-js.netlify.app/
